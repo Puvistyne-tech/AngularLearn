@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
  * 2. templateUrl— the location of the component's template file.
  * 3. styleUrls— the location of the component's private CSS styles.
  *
- * This is the decorator of this component app.component.ts.
+ * This is the decorator of this component app.
  */
 @Component({
   selector: 'pm-root',
